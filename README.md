@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/samtozeen/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0844-backspace-string-compare](https://github.com/samtozeen/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/samtozeen/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/samtozeen/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0735-asteroid-collision](https://github.com/samtozeen/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0977-squares-of-a-sorted-array](https://github.com/samtozeen/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/samtozeen/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/samtozeen/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/samtozeen/LEETCODE/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
