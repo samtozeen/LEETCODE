@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/samtozeen/LEETCODE/tree/master/0007-reverse-integer) |
+| [2235-add-two-integers](https://github.com/samtozeen/LEETCODE/tree/master/2235-add-two-integers) |
 ## Hash Table
 |  |
 | ------- |
