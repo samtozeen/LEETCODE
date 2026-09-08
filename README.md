@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/samtozeen/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/samtozeen/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/samtozeen/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/samtozeen/LEETCODE/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/samtozeen/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/samtozeen/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0977-squares-of-a-sorted-array](https://github.com/samtozeen/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/samtozeen/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/samtozeen/LEETCODE/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
