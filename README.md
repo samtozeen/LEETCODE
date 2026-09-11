@@ -69,10 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/samtozeen/LEETCODE/tree/master/0011-container-with-most-water) |
+| [1323-maximum-69-number](https://github.com/samtozeen/LEETCODE/tree/master/1323-maximum-69-number) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/samtozeen/LEETCODE/tree/master/0007-reverse-integer) |
+| [1323-maximum-69-number](https://github.com/samtozeen/LEETCODE/tree/master/1323-maximum-69-number) |
 | [2235-add-two-integers](https://github.com/samtozeen/LEETCODE/tree/master/2235-add-two-integers) |
 ## Hash Table
 |  |
