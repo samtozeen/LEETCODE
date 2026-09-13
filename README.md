@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/samtozeen/LEETCODE/tree/master/0007-reverse-integer) |
 | [1323-maximum-69-number](https://github.com/samtozeen/LEETCODE/tree/master/1323-maximum-69-number) |
+| [1486-xor-operation-in-an-array](https://github.com/samtozeen/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/samtozeen/LEETCODE/tree/master/2235-add-two-integers) |
 ## Hash Table
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/samtozeen/LEETCODE/tree/master/0136-single-number) |
+| [1486-xor-operation-in-an-array](https://github.com/samtozeen/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
