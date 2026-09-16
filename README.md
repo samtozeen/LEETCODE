@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/samtozeen/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/samtozeen/LEETCODE/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/samtozeen/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/samtozeen/LEETCODE/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/samtozeen/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/samtozeen/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/samtozeen/LEETCODE/tree/master/0844-backspace-string-compare) |
@@ -83,12 +84,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/samtozeen/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/samtozeen/LEETCODE/tree/master/0049-group-anagrams) |
+| [0383-ransom-note](https://github.com/samtozeen/LEETCODE/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/samtozeen/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/samtozeen/LEETCODE/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/samtozeen/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/samtozeen/LEETCODE/tree/master/0383-ransom-note) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/samtozeen/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Design
 |  |
