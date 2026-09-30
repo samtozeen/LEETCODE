@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/samtozeen/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0735-asteroid-collision](https://github.com/samtozeen/LEETCODE/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/samtozeen/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/samtozeen/LEETCODE/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/samtozeen/LEETCODE/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/samtozeen/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/samtozeen/LEETCODE/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/samtozeen/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/samtozeen/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/samtozeen/LEETCODE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/samtozeen/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/samtozeen/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/samtozeen/LEETCODE/tree/master/0739-daily-temperatures) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
