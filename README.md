@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/samtozeen/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/samtozeen/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/samtozeen/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/samtozeen/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/samtozeen/LEETCODE/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/samtozeen/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/samtozeen/LEETCODE/tree/master/0844-backspace-string-compare) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/samtozeen/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/samtozeen/LEETCODE/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/samtozeen/LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0349-intersection-of-two-arrays](https://github.com/samtozeen/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/samtozeen/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/samtozeen/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/samtozeen/LEETCODE/tree/master/0704-binary-search) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/samtozeen/LEETCODE/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/samtozeen/LEETCODE/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/samtozeen/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/samtozeen/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/samtozeen/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Greedy
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/samtozeen/LEETCODE/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/samtozeen/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/samtozeen/LEETCODE/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/samtozeen/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/samtozeen/LEETCODE/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/samtozeen/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/samtozeen/LEETCODE/tree/master/0567-permutation-in-string) |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/samtozeen/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/samtozeen/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/samtozeen/LEETCODE/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/samtozeen/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 ## Dynamic Programming
