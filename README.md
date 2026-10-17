@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/samtozeen/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/samtozeen/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/samtozeen/LEETCODE/tree/master/0844-backspace-string-compare) |
+| [1528-shuffle-string](https://github.com/samtozeen/LEETCODE/tree/master/1528-shuffle-string) |
 ## Stack
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/samtozeen/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/samtozeen/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/samtozeen/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/samtozeen/LEETCODE/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/samtozeen/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/samtozeen/LEETCODE/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/samtozeen/LEETCODE/tree/master/1672-richest-customer-wealth) |
