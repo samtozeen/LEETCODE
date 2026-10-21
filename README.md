@@ -159,11 +159,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/samtozeen/LEETCODE/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/samtozeen/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [1486-xor-operation-in-an-array](https://github.com/samtozeen/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/samtozeen/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/samtozeen/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/samtozeen/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/samtozeen/LEETCODE/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/samtozeen/LEETCODE/tree/master/1539-kth-missing-positive-number) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/samtozeen/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/samtozeen/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -229,4 +232,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/samtozeen/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/samtozeen/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
