@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/samtozeen/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/samtozeen/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0735-asteroid-collision](https://github.com/samtozeen/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/samtozeen/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/samtozeen/LEETCODE/tree/master/0844-backspace-string-compare) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/samtozeen/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samtozeen/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/samtozeen/LEETCODE/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/samtozeen/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/samtozeen/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/samtozeen/LEETCODE/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/samtozeen/LEETCODE/tree/master/0198-house-robber) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/samtozeen/LEETCODE/tree/master/0007-reverse-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/samtozeen/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/samtozeen/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/samtozeen/LEETCODE/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/samtozeen/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
